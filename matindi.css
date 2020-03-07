@@ -1,0 +1,52 @@
+input {
+    border: 3px solid blue;
+    height: 25px;
+    font-family: Comic Sans;
+}
+#d, #b, #o, #h {
+    margin-top: 50px;
+}
+#d {
+   position: absolute;
+   left: 10%;
+   top: 20px;
+}
+#b {
+   position: absolute;
+   left: 10%;
+   top: 50px;
+}
+#o {
+   position: absolute;
+   left: 10%;
+   top: 80px;
+}
+#h {
+   position: absolute;
+   left: 10%;
+   top: 110px;
+}
+#button {
+    position: absolute;
+    left: 30%;
+    top: 90px;
+    border: 2px solid blue;
+    height: 25px;
+    text-align: center;
+}
+
+p{
+
+    position: relative;
+    left: 22%;
+    top: 58px;
+    margin: 15px;
+    font-size: 15px;
+
+}
+
+
+
+
+
+
